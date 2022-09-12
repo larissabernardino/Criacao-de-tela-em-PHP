@@ -1,8 +1,8 @@
-body li {  
+body , li {  
   margin:0;
   padding:0;
   list-style:none;
-  font-family: 'Arial';
+  font-family: 'Verdana';
   }
   #container{
       display:grid;
@@ -41,6 +41,6 @@ body li {
       display:block;
       padding:10px;
       cursor:pointer;
-      background-color:green;
+      
       color:white;
   }
