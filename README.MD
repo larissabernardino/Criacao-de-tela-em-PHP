@@ -1,2 +1,2 @@
-# Aula do Ferneko
+# Aula de PHP na Faculdade
 - PHP
